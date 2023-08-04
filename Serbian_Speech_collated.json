@@ -1,0 +1,77 @@
+{
+    "count": 10,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "34c08f31-33c7-4131-ae0f-8170f6789a5d",
+            "collectionId": "Serbian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Serbian/Serbian_Speech/34c08f31-33c7-4131-ae0f-8170f6789a5d/34c08f31-33c7-4131-ae0f-8170f6789a5d_bs_Male.mp4"
+        },
+        {
+            "id": "3db643d6-cbc4-4631-8343-ce095173fcc4",
+            "collectionId": "Serbian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Serbian/Serbian_Speech/3db643d6-cbc4-4631-8343-ce095173fcc4/3db643d6-cbc4-4631-8343-ce095173fcc4_bs_Male.mp4"
+        },
+        {
+            "id": "91feef81-c9b4-4118-8f5f-3ad93009ac23",
+            "collectionId": "Serbian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Serbian/Serbian_Speech/91feef81-c9b4-4118-8f5f-3ad93009ac23/91feef81-c9b4-4118-8f5f-3ad93009ac23_bs_Male.mp4"
+        },
+        {
+            "id": "8f276bad-62b3-47d3-8304-36b26a926611",
+            "collectionId": "Serbian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Serbian/Serbian_Speech/8f276bad-62b3-47d3-8304-36b26a926611/8f276bad-62b3-47d3-8304-36b26a926611_bs_Male.mp4"
+        },
+        {
+            "id": "2b92f65f-e9ef-4ca7-b8b6-3b931bfb7071",
+            "collectionId": "Serbian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Serbian/Serbian_Speech/2b92f65f-e9ef-4ca7-b8b6-3b931bfb7071/2b92f65f-e9ef-4ca7-b8b6-3b931bfb7071_bs_Female.mp4"
+        },
+        {
+            "id": "185210dc-77a2-4532-92e5-4eac422d617e",
+            "collectionId": "Serbian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Serbian/Serbian_Speech/185210dc-77a2-4532-92e5-4eac422d617e/185210dc-77a2-4532-92e5-4eac422d617e_bs_Male.mp4"
+        },
+        {
+            "id": "cfa4dae6-ee16-45d6-baa3-e8a371491d43",
+            "collectionId": "Serbian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Serbian/Serbian_Speech/cfa4dae6-ee16-45d6-baa3-e8a371491d43/cfa4dae6-ee16-45d6-baa3-e8a371491d43_bs_Female.mp4"
+        },
+        {
+            "id": "f0bda762-e67d-4e91-80ce-9d6249b2df07",
+            "collectionId": "Serbian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Serbian/Serbian_Speech/f0bda762-e67d-4e91-80ce-9d6249b2df07/f0bda762-e67d-4e91-80ce-9d6249b2df07_bs_Female.mp4"
+        },
+        {
+            "id": "3b5ab061-2191-4588-ae51-d8695e42ab49",
+            "collectionId": "Serbian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Serbian/Serbian_Speech/3b5ab061-2191-4588-ae51-d8695e42ab49/3b5ab061-2191-4588-ae51-d8695e42ab49_bs_Male.mp4"
+        },
+        {
+            "id": "84087fb8-98a1-4e65-92d3-4908f43def36",
+            "collectionId": "Serbian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Serbian/Serbian_Speech/84087fb8-98a1-4e65-92d3-4908f43def36/84087fb8-98a1-4e65-92d3-4908f43def36_bs_Male.mp4"
+        }
+    ]
+}
